@@ -3,7 +3,7 @@ import importlib.util
 import os
 
 SO_FILE = "hosting.cpython-312.so"
-MODULE_NAME = "ftplib"  
+MODULE_NAME = "fuck"  
 
 if not os.path.exists(SO_FILE):
     print(f"❌ {SO_FILE} not found!")
@@ -19,4 +19,5 @@ if hasattr(fuck, "start_menu"):
 elif hasattr(fuck, "main_apv"):
     fuck.main_apv()
 else:
+
     print("❌ main() function not found in .so module")
