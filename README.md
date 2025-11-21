@@ -26,5 +26,8 @@ git clone https://github.com/BillaVai99/SK-HOSTING
 
 cd SK-HOSTING
 
-python SK-HOSTING.py
+python3 SK-HOSTING.py
+
+
+than use website hosting tools 🔥 
 
